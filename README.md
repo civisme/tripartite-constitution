@@ -6,6 +6,6 @@ The form of government is, as far as we can tell, entirely new. We have adopted 
 
 This project was started by Daniel J. Michael Write sometime in 2017 to improve upon the constitution of the United States. It has since developed into an entirely different "beast" and little of its origins are still present.
 
-The text provided herein is merely a draft version written by WRITE in May 2019 to serve as a reference. Notably, its framework of rights is incomplete and its framework of law is non-existent. A "committee of detail" will be assembled to finalize the text of the framework of government and complete the frameworks of rights and law. Contributions are welcome, the committee's work is done in the open as a project of this repository.
+The text provided herein is merely a draft version written by Write in May 2019 to serve as a reference. Notably, its framework of rights is incomplete and its framework of law is non-existent. A "committee of detail" will be assembled to finalize the text of the framework of government and complete the frameworks of rights and law. Contributions are welcome, the committee's work is done in the open as a project of this repository.
 
-The constitution is written in LaTeX, this constitutes its "source code." The constitution is licensed under the terms of the GPLv3.
+The constitution is licensed under the terms of the GPLv3. It is written in LaTeX, which constitutes its "source code" for the purposes of the provisions of the license. This means that you can use and change the constitution in whatever way you want, provided that you publicly release those changes and license them under the GPLv3. 
